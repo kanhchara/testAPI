@@ -19,6 +19,11 @@
             "id":4,
             "name":"lola",
             "pricet":100
+        },
+        {
+            "id":5,
+            "name":"cocakola",
+            "pricet":300
         }
 
     ]
